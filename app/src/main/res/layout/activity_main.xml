@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#1255"
+    >
+    <Button
+        android:id="@+id/test1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="test1"
+        android:background="#999f"
+        android:text="test1"
+        />
+
+    <Button
+        android:id="@+id/test2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="test2"
+        android:background="#997f"
+        android:text="test2"
+        />
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Hello World!"
+        />
+</LinearLayout>
