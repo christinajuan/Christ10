@@ -23,6 +23,48 @@
         android:background="#997f"
         android:text="test2"
         />
+    <Button
+        android:id="@+id/test3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="test3"
+        android:background="#995f"
+        android:text="test3"
+        />
+
+    <Button
+        android:id="@+id/test4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="test4"
+        android:background="#993f"
+        android:text="test4"
+        />
+    <Button
+        android:id="@+id/test5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="test5"
+        android:background="#995f"
+        android:text="test5"
+        />
+
+    <Button
+        android:id="@+id/test6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="test6"
+        android:background="#993f"
+        android:text="test6"
+        />
+    <Button
+        android:id="@+id/test7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="test7"
+        android:background="#993f"
+        android:text="test7"
+        />
     <TextView
         android:id="@+id/tv"
         android:layout_width="match_parent"
