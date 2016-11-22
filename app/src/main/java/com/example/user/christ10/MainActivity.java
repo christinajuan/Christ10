@@ -149,7 +149,7 @@ public class MainActivity extends AppCompatActivity {
                 tv.append(line+"\n");
             }
             reader.close();
-            
+
         } catch (Exception e) {
             Log.v("brad", "test7():"+e.toString());
         }
